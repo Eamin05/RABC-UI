@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Home - german",
+    "welcome": "Welcome to our website! - german"
+  },
+  "about": {
+    "title": "About  - german",
+    "content": "This is a simple website built with Node.js and Express. - german"
+  }
+}

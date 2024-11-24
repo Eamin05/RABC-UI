@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to our website!"
+  },
+  "about": {
+    "title": "About",
+    "content": "This is a simple website built with Node.js and Express."
+  }
+}
