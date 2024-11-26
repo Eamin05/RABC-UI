@@ -1,0 +1,38 @@
+.login-container {
+  display: flex;
+  height: 100vh;
+  .login {
+    &-image {
+      max-width: 150px;
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      &-wrapper {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #f1e8b8;
+        gap: 30px;
+      }
+    }
+    &-intro {
+      width: 80%;
+      text-align: center;
+      font-weight: 500;
+    }
+    &-form-wrapper {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+  .ant-row {
+    // flex-direction: column;
+    gap: 5px;
+  }
+}
